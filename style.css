@@ -85,7 +85,7 @@ p {
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #444; 
+	color: #444;
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -94,7 +94,7 @@ p {
 	transition: all .3s ease-in;
 }
 
-#contactDetails ul li a:hover { 
+#contactDetails ul li a:hover {
 	color: #cf8a05;
 }
 
@@ -165,7 +165,7 @@ abbr {
 }
 
 .sectionContent a, a[href^=tel] {
-	color: #444; 
+	color: #444;
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -174,7 +174,7 @@ abbr {
 	transition: all .3s ease-in;
 }
 
-.sectionContent a:hover { 
+.sectionContent a:hover {
 	color: #cf8a05;
 }
 
