@@ -1,0 +1,34 @@
+Stephen A Thomas
+Front End Web Development
+
+Email: stephen@sathomas.me
+Phone: +1 (404) 457-8652
+Blog: http://blog.sathomas.me
+Open Source Projects: https://github.com/sathomas
+Web Site: http://sathomas.me
+Twitter: @stephen_thomas
+
+ABOUT ME
+
+Front end architect with extensive experience in modern web development and a passion for delivering exceptional user experiences. Grounded in the ethnographic foundations of usability and human computer interaction with a deep understanding of front end development based on the principles of accessibility, progressive enhancement and responsive design. Introduced and tutored development teams in the adoption of leading front end technologies such as MV• frameworks and test-driven development. Work experience includes corporate enterprises and service providers, as well as charitable support of non-profit organizations including the Centers for Disease Control and the World Health Organization.
+
+SKILLS & AREAS OF EXPERTISE
+
+JavaScript, Backbone.js, jQuery, REST, HTML5, CSS3, Responsive Design, Progressive Enhancement, Accessibility, User Research, Usability Testing, Test Driven Development
+
+WORK EXPERIENCE
+
+Front End Architect at Dell SecureWorks  2007 to presentResponsible for all aspects of front end design and development for web and mobile applications. Conducted in-person and remote user research including contextual inquiry, card sorting, cognitive analysis, and usability testing. Defined requirements, completed analysis, and developed prototypes of web application frameworks, libraries, and tool chains based on HTML5/CSS3/Javascript. Introduced development team to MV• and data visualization frameworks (Backbone.js and D3.js). Created style guides, coding standards, and test-driven development processes. Developed complete front end implementation (HTML, CSS, and Backbone.js-based Javascript) for Customer-facing Web Portal.
+
+Chief Architect at Wave7 Optics  2001 to 2006Led design and development of IP-based optical network architecture for the delivery of video, voice and data services in business and residential applications.
+
+Chief Technical Officer at TransNexus  1997 to 2001Led technical development for startup company creating financial clearinghouse for Internet-based communication services.
+
+PUBLICATIONS
+
+Javascript for Data Visualization. (Book under contract with major publisher. Current draft available on request.)“Unit Testing Backbone.js Applications.” published 25 February 2013 on JSPRO.com.“Web-Based Visualization.” published 5 November 2012 on UICloud.HTTP Essentials: Protocols for Secure, Scaleable Web Sites. John Wiley & Sons: New York, 2001.SSL & TLS Essentials: Securing the Web. John Wiley & Sons: New York, 2000.
+
+EDUCATION
+
+Master of Science from School of Electrical Engineering. Georgia Institute of Technology. Atlanta, Georgia. 1994. GPA: 4.0 (A=4).
+Bachelor of Electrical Engineering. Georgia Institute of Technology. Atlanta, Georgia. 1983. GPA: 4.0 (A=4).
