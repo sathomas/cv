@@ -26,9 +26,9 @@ Chief Technical Officer at TransNexus  1997 to 2001Led technical development fo
 
 PUBLICATIONS
 
-Javascript for Data Visualization. (Book under contract with major publisher. Current draft available on request.)“Unit Testing Backbone.js Applications.” published 25 February 2013 on JSPRO.com.“Web-Based Visualization.” published 5 November 2012 on UICloud.HTTP Essentials: Protocols for Secure, Scaleable Web Sites. John Wiley & Sons: New York, 2001.SSL & TLS Essentials: Securing the Web. John Wiley & Sons: New York, 2000.
+Javascript for Data Visualization. (Book under contract with major publisher. Current draft available on request.)“Simple Responsive Images with CSS Background Images.” published 22 July 2013 on Smashing Magazine.
+“Unit Testing Backbone.js Applications.” published 25 February 2013 on JSPRO.com.“Web-Based Visualization.” published 5 November 2012 on UICloud.HTTP Essentials: Protocols for Secure, Scaleable Web Sites. John Wiley & Sons: New York, 2001.SSL & TLS Essentials: Securing the Web. John Wiley & Sons: New York, 2000.
 
 EDUCATION
 
 Master of Science from School of Electrical Engineering. Georgia Institute of Technology. Atlanta, Georgia. 1994. GPA: 4.0 (A=4).
-Bachelor of Electrical Engineering. Georgia Institute of Technology. Atlanta, Georgia. 1983. GPA: 4.0 (A=4).
