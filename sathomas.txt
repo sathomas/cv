@@ -10,11 +10,11 @@ Twitter: @stephen_thomas
 
 ABOUT ME
 
-Front end architect with extensive experience in modern web development and a passion for delivering exceptional user experiences. Deep understanding of front end development based on the principles of accessibility, progressive enhancement and responsive design. Introduced and tutored development teams in the adoption of leading front end technologies such as MV* frameworks and test-driven development. Work experience includes corporate enterprises and service providers, as well as charitable support of non-profit organizations including the Centers for Disease Control and the World Health Organization. Author of multiple books on web technology and frequent speaker at leading industry conferences.
+Front end architect with extensive experience in modern web development and a passion for delivering exceptional user experiences and a focus on data visualization. Deep understanding of front end development based on the principles of accessibility, progressive enhancement and responsive design. Introduced and tutored development teams  in the adoption of leading front end technologies such as MV* frameworks and test-driven development. Work experience includes corporate enterprises and service providers, as well as charitable support of non-profit organizations including the Centers for Disease Control and the World Health Organization. Author of multiple books on web technology and frequent speaker at leading industry conferences.
 
 SKILLS & AREAS OF EXPERTISE
 
-JavaScript, Backbone.js, jQuery, REST, HTML5, CSS3, Responsive Design, Progressive Enhancement, Accessibility, Test Driven Development
+JavaScript, D3.js Backbone.js, jQuery, HTML5, CSS3, Responsive Design, Progressive Enhancement, Accessibility, Test Driven Development
 
 WORK EXPERIENCE
 
