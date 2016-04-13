@@ -3,42 +3,80 @@ Front End Web Development
 
 Email: stephen@sathomas.me
 Phone: +1 (404) 457-8652
-Blog: http:/jsDataV.is
+Blog: http://jsDataV.is
 Open Source Projects: https://github.com/sathomas
 Web Site: http://sathomas.me
 Twitter: @stephen_thomas
 
 ABOUT ME
 
-Front end architect with extensive experience in modern web development and a passion for delivering exceptional user experiences and a focus on data visualization. Deep understanding of front end development based on the principles of accessibility, progressive enhancement and responsive design. Introduced and tutored development teams  in the adoption of leading front end technologies such as MV* frameworks and test-driven development. Work experience includes corporate enterprises and service providers, as well as charitable support of non-profit organizations including the Centers for Disease Control and the World Health Organization. Author of multiple books on web technology and frequent speaker at leading industry conferences.
+Front end architect with extensive experience in modern web
+development and a zeal for delivering exceptional user
+experiences. Noted expert and invited speaker on interactive,
+web-based data visualization. Thorough understanding of front
+end development based on the principles of accessibility,
+progressive enhancement and responsive design. Introduced
+and tutored development teams in the adoption of leading
+front end technologies such as MV* frameworks and test-driven
+development. Work experience includes corporate enterprises
+and service providers, as well as charitable support of
+non-profit organizations including the Centers for Disease
+Control and the World Health Organization. Author of multiple
+books on web technology and frequent speaker at leading
+industry conferences.
 
 SKILLS & AREAS OF EXPERTISE
 
-JavaScript, D3.js Backbone.js, jQuery, HTML5, CSS3, Responsive Design, Progressive Enhancement, Accessibility, Test Driven Development
+JavaScript, HTML5, CSS3, D3.js Backbone.js, jQuery,
+Responsive Design, Progressive Enhancement, Accessibility,
+Test Driven Development
 
 WORK EXPERIENCE
 
-Application Developer at Georgia Tech  2013 to present
-Web developer in Office of Education Technology focussed on large-scale web platforms for academic research and collaboration.
+Front End Developer at Intellum  2015 - present
+  Primary front end developer for enterprise learning
+  management system.
+
+Application Developer at Georgia Tech  2013 to 2015
+  Web developer in Office of Education Technology focussed
+  on large-scale web platforms for academic research and
+  collaboration.
 
 Front End Architect at Dell SecureWorks  2007 to 2013
-Responsible for all aspects of front end design and development for web and mobile applications.
+  Responsible for all aspects of front end design and
+  development for web and mobile applications.
 
 Chief Architect at Wave7 Optics  2001 to 2006
-Led design and development of IP-based optical network architecture for the delivery of video, voice and data services in business and residential applications.
-
-Chief Technical Officer at TransNexus  1997 to 2001
-Led technical development for startup company creating financial clearinghouse for Internet-based communication services.
+  Led design and development of IP-based optical network
+  architecture for the delivery of video, voice and data
+  services in business and residential applications.
 
 PUBLICATIONS
 
-Data Visualization with JavaScript. No Starch Press: San Francisco, 2015
-“Simple Responsive Images with CSS Background Images.” published 22 July 2013 on Smashing Magazine.
-“Unit Testing Backbone.js Applications.” published 25 February 2013 on JSPRO.com.
-“Web-Based Visualization.” published 5 November 2012 on UICloud.
-HTTP Essentials: Protocols for Secure, Scaleable Web Sites. John Wiley & Sons: New York, 2001.
-SSL & TLS Essentials: Securing the Web. John Wiley & Sons: New York, 2000.
+Data Visualization with JavaScript. No Starch Press:
+  San Francisco, 2015.
+
+“Simple Responsive Images with CSS Background Images.”
+  published 22 July 2013 on Smashing Magazine.
+
+“Unit Testing Backbone.js Applications.” published 25
+  February 2013 on JSPRO.com.
+
+“Web-Based Visualization.” published 5 November 2012
+  on UICloud.
+
+HTTP Essentials: Protocols for Secure, Scaleable Web Sites.
+  John Wiley & Sons: New York, 2001.
+
+SSL & TLS Essentials: Securing the Web. John Wiley & Sons:
+  New York, 2000.
 
 EDUCATION
 
-Master of Science from School of Electrical Engineering. Georgia Institute of Technology. Atlanta, Georgia. 1994. GPA: 4.0 (A=4).
+Candidate for PhD in Quantitative BioSciences (sponsored by
+  School of Mathematics). Georgia Institute of Technology.
+  Atlanta, Georgia (part-time beginning Fall 2016).
+
+Master of Science from School of Electrical Engineering.
+  Georgia Institute of Technology. Atlanta, Georgia. 1994.
+  GPA: 4.0 (A=4).
