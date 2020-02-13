@@ -10,46 +10,47 @@ Twitter: @stephen_thomas
 
 ABOUT ME
 
-Front end architect with extensive experience in modern web
-development and a zeal for delivering exceptional user
-experiences. Noted expert and invited speaker on interactive,
-web-based data visualization. Thorough understanding of front
-end development based on the principles of accessibility,
-progressive enhancement and responsive design. Introduced
-and tutored development teams in the adoption of leading
-front end technologies such as MV* frameworks and test-driven
-development. Work experience includes corporate enterprises
-and service providers, as well as charitable support of
-non-profit organizations including the Centers for Disease
-Control and the World Health Organization. Author of multiple
-books on web technology and frequent speaker at leading
-industry conferences.
+Front end architect with extensive experience in modern
+web development and a passion for delivering exceptional
+user experiences with a focus on data visualization.
+Deep understanding of front end development based on the
+principles of accessibility, progressive enhancement and
+responsive design. Very familiar with modern front end
+frameworks including AngularJS and Vue.js. Introduced and
+tutored development teams in the adoption of leading front
+end technologies and test-driven development. Work
+experience includes startups, large enterprises and service
+providers, as well as charitable support of non-profit
+organizations including the Centers for Disease Control
+and the World Health Organization. Author of multiple books
+on web technology and frequent speaker at leading industry
+conferences.
 
 SKILLS & AREAS OF EXPERTISE
 
-JavaScript, HTML5, CSS3, D3.js Backbone.js, jQuery,
+JavaScript, HTML5, CSS3, D3.js Vue.js, AngularJS,
 Responsive Design, Progressive Enhancement, Accessibility,
 Test Driven Development
 
 WORK EXPERIENCE
 
-Front End Developer at Intellum  2015 - present
-  Primary front end developer for enterprise learning
-  management system.
+Senior Front End Developer at PrimityBio  2017 - present
+  Front end development for biotech platform providing
+  advance scientific visualizations and data analysis.
+
+Front End Developer at Intellum  2015 - 2017
+  Front end development for learning management system
+  and other enterprise applications.
 
 Application Developer at Georgia Tech  2013 to 2015
-  Web developer in Office of Education Technology focussed
-  on large-scale web platforms for academic research and
-  collaboration.
+  Web developer in Office of Education Technology
+  developing large-scale web platforms for academic
+  research and collaboration.
 
-Front End Architect at Dell SecureWorks  2007 to 2013
+Web Architect at Dell SecureWorks  2007 to 2013
   Responsible for all aspects of front end design and
-  development for web and mobile applications.
-
-Chief Architect at Wave7 Optics  2001 to 2006
-  Led design and development of IP-based optical network
-  architecture for the delivery of video, voice and data
-  services in business and residential applications.
+  development for web and mobile applications for
+  network security service
 
 PUBLICATIONS
 
@@ -65,6 +66,12 @@ Data Visualization with JavaScript. No Starch Press:
 “Web-Based Visualization.” published 5 November 2012
   on UICloud.
 
+“Design and deployment of a blood safety monitoring tool”
+  with A. Osuntogun, J. Pitman, S. Basavaraju, B. Mulenga,
+  and S. Vempala. International Conference on Information
+  and Communication Technologies and Development (ICTD),
+  Doha, 2009.
+
 HTTP Essentials: Protocols for Secure, Scaleable Web Sites.
   John Wiley & Sons: New York, 2001.
 
@@ -73,9 +80,9 @@ SSL & TLS Essentials: Securing the Web. John Wiley & Sons:
 
 EDUCATION
 
-Candidate for PhD in Quantitative BioSciences (sponsored by
-  School of Mathematics). Georgia Institute of Technology.
-  Atlanta, Georgia (part-time beginning Fall 2016).
+Candidate for PhD in Quantitative BioSciences. Georgia
+  Institute of Technology. Atlanta, Georgia (part-time
+  beginning Fall 2016).
 
 Master of Science from School of Electrical Engineering.
   Georgia Institute of Technology. Atlanta, Georgia. 1994.
